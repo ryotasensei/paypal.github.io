@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.paypal.com	TRUE	/	FALSE	1999999999	cookie_check	yes
+www.paypal.com	TRUE	/	FALSE	1999999999	nsid	s%3Au_bOIy-nnLgugdd00M4OnQ1NZBu5dRR1.DmnBmvWq01G7Fkfi8Sa1nlMQu3v90uM8bnb0c2Zucyo
+.paypal.com	TRUE	/	FALSE	1999999999	tsrce	authchallengenodeweb
+.paypal.com	TRUE	/	FALSE	1999999999	enforce_policy	gdpr_v2.1
+.paypal.com	TRUE	/	FALSE	1999999999	LANG	fr_FR%3BFR
+.paypal.com	TRUE	/	FALSE	1999999999	x-pp-s	eyJ0IjoiMTYxNDI1NTI5NTU0MyIsImwiOiIwIiwibSI6IjAifQ
+paypal.com	TRUE	/	FALSE	1999999999	l7_az	dcg01.phx
+paypal.com	TRUE	/	FALSE	1999999999	ts	vreXpYrS%3D1708863295%26vteXpYrS%3D1614257095%26vr%3Dd9069b071770a7805c0a9fbdffa84a27%26vt%3Dd9069b071770a7805c0a9fbdffa84a26%26vtyp%3Dnew
+paypal.com	TRUE	/	FALSE	1999999999	ts_c	vr%3Dd9069b071770a7805c0a9fbdffa84a27%26vt%3Dd9069b071770a7805c0a9fbdffa84a26
+.paypal.com	TRUE	/	FALSE	1999999999	x-cdn	akamai
+www.paypal.com	TRUE	/	FALSE	1999999999	akavpau_ppsd	1614255895~id=f0cd9ca8962cc25523c2f36531e440b9
+www.paypal.com	TRUE	/	FALSE	1999999999	SameSite	None
+
